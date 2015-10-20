@@ -1,0 +1,35 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+.main {
+	width: 100%;
+	height: 100%;
+	background-color: #00CC99;
+}
+
+.sidebar-left {
+	width: 20%;
+	min-width: 33%;
+	float: left;
+	height: 100%;
+	background-color: #4775FF;
+}
+
+.sidebar-right {
+	width: 33%;
+	height: 100%;
+	float: right;
+	position: relative;
+	background-color: #DEFF9C;
+}
+
+.bottom {
+	width: 100%;
+	height: 25%;
+	position: absolute;
+	bottom: 0;
+	background-color: #E81919;
+	overflow: auto;
+}
