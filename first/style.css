@@ -1,0 +1,41 @@
+header {
+	width: 100%;
+	height: 200px;
+	background-color: #545454;
+}
+
+.main {
+	width: 100%;
+	height: 850px;
+	background-color: #EBEBEB;
+}
+
+.sidebar-left {
+	width: 20%;
+	min-width: 180px;
+	float: left;
+	height: 100%;
+	background-color: #C9C9C9;
+}
+
+.sidebar-right {
+	width: 20%;
+	min-width: 180px;
+	float: right;
+	height: 100%;
+	background-color: #C9C9C9;
+}
+
+.content {
+	width: 100%;
+	height: 100px;
+	margin: 0 auto 0 auto;
+	background-color: #EBEBEB;
+}
+
+.bottom {
+	width: 100%;
+	height: 100px;
+	margin: 650px auto 0 auto;
+	background-color: #1D1D1D;
+}
